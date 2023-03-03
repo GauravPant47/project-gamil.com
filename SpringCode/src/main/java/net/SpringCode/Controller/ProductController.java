@@ -16,7 +16,7 @@ public class ProductController {
     public ArrayList getAllProduct() {
         Product pro1 = new Product(1, "Bottle", "Mad in India");
         this.product.add(0, pro1);
-        Product pro2 = new Product(2, "Mobile", "Mad in China");
+        Product pro2 = new Product(2, "Mobile", "Mad in ");
         this.product.add(0, pro2);
         return this.product;
         // return "Hello World";

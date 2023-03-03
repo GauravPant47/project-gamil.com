@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringCodeApplication<SpringCode>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.SpringCode.SpringCodeApplication",
+            "projectName": "SpringCode",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
